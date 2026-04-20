@@ -1,0 +1,281 @@
+.hero {
+  position: relative;
+  height: 90vh;
+  overflow: hidden;
+  background-color:  rgba(10, 25, 50, 0.65);
+  background-blend-mode: overlay;
+  background-image: url('../images/gal-banner.jpg');
+  background-size: cover;
+  background-position: center;
+}
+
+/* Background */
+.hero-bg img,
+.hero-bg video {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+/* Overlay */
+.overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(10, 25, 50, 0.65);
+}
+
+/* Announcement Bar */
+.announcement {
+  position: absolute;
+  top: 0;
+  width: 100%;
+  background: #0b1f3a;
+  color: #fff;
+  font-size: 14px;
+  padding: 8px 0;
+  text-align: center;
+  z-index: 3;
+}
+
+/* Content */
+.hero-content {
+  position: absolute;
+  bottom: 100px;
+  left: 60px;
+  max-width: 650px;
+  z-index: 2;
+}
+
+.hero-content h1 {
+  font-size: 42px;
+  font-weight: 600;
+  line-height: 1.3;
+  margin-bottom: 15px;
+  color: #ffffff;
+}
+
+.hero-content p {
+  font-size: 16px;
+  line-height: 1.6;
+  margin-bottom: 25px;
+  color: #ffffff;
+}
+
+/* Button */
+.hero-btn {
+  background: #f4b400;
+  color: #000;
+  padding: 12px 24px;
+  text-decoration: none;
+  font-weight: 600;
+  border-radius: 3px;
+  transition: 0.3s;
+}
+
+.hero-btn:hover {
+  background: #e0a800;
+}
+
+/* Floating Icons */
+.floating-icons {
+  position: absolute;
+  right: 20px;
+  bottom: 120px;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  z-index: 2;
+}
+
+.icon {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #fff;
+  font-size: 20px;
+  text-decoration: none;
+}
+
+.whatsapp {
+  background: #25d366;
+}
+
+.mail {
+  background: #f4b400;
+}
+
+@media (max-width: 768px) {
+
+  .hero-content {
+    left: 20px;
+    right: 20px;
+    bottom: 60px;
+  }
+
+  .hero-content h1 {
+    font-size: 26px;
+  }
+
+  .hero-content p {
+    font-size: 14px;
+  }
+
+  .floating-icons {
+    right: 10px;
+    bottom: 80px;
+  }
+}
+
+.announcement {
+  overflow: hidden;
+  white-space: nowrap;
+}
+
+.announcement span {
+  display: inline-block;
+  padding-left: 100%;
+  animation: scroll 12s linear infinite;
+}
+
+@keyframes scroll {
+  0% {
+    transform: translateX(0);
+  }
+
+  100% {
+    transform: translateX(-100%);
+  }
+}
+
+
+
+
+/* SECTION */
+.campus-section {
+  padding: 80px 5%;
+  background: #f5f5f5;
+}
+
+/* HEADER */
+.campus-tag {
+  color: #f4b400;
+  letter-spacing: 3px;
+  font-size: 13px;
+  margin-bottom: 10px;
+}
+
+.campus-title {
+  font-size: 42px;
+  color: #1b2a41;
+  margin-bottom: 10px;
+}
+
+.campus-desc {
+  color: #666;
+  max-width: 650px;
+  margin-bottom: 30px;
+  font-size: 15px;
+}
+
+/* TABS */
+.campus-tabs {
+  display: flex;
+  gap: 14px;
+  flex-wrap: wrap;
+}
+
+/* BUTTON */
+.tab {
+  padding: 10px 18px;
+  border: 1.5px solid #f4b400;
+  background: #fff;
+  color: #1b2a41;
+  font-size: 14px;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+/* ACTIVE */
+.tab.active {
+  background: #f4b400;
+  color: #000;
+  border-color: #f4b400;
+}
+
+/* HOVER */
+.tab:hover {
+  background: #f4b400;
+  color: #000;
+}
+
+.gallery-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 20px;
+  margin-top: 40px;
+}
+
+/* Box */
+.gallery-item {
+  position: relative;
+  overflow: hidden;
+  border-radius: 6px;
+  height: 180px;
+}
+
+/* Image */
+.gallery-item img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+  transition: 0.4s;
+}
+
+/* Text label */
+.gallery-item span {
+  position: absolute;
+  bottom: 10px;
+  left: 10px;
+  background: rgba(255,255,255,0.7);
+  padding: 4px 8px;
+  font-size: 12px;
+}
+
+/* Layout variations */
+.gallery-item.big {
+  grid-column: span 2;
+  height: 220px;
+}
+
+.gallery-item.wide {
+  grid-column: span 2;
+  height: 180px;
+}
+
+.gallery-item.small {
+  height: 220px;
+}
+
+/* Hover effect */
+.gallery-item:hover img {
+  transform: scale(1.05);
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+  .gallery-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .gallery-item.big,
+  .gallery-item.wide {
+    grid-column: span 1;
+  }
+}
