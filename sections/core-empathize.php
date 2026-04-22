@@ -17,7 +17,7 @@
       <div class="kg2-content">
         <p class="kg2-tag">EMPATHIZE ME</p>
 
-        <h2>KG – Grade 2 <span>(Foundational Stage)</span></h2>
+        <h2>Kinder Garden – Grade 2</h2>
 
         <p class="kg2-desc">
           At this stage, we empathize with every child’s emotions, pace, and individuality to create a safe and supportive learning environment. Through activity-based and experiential learning, children feel understood, valued, and confident making learning natural and joyful. We focus on emotional connection first, so learning becomes meaningful and stress-free.
@@ -86,13 +86,13 @@
     <div class="kg2-out-grid">
 
       <div class="kg2-card">
-        <div class="icon">🏫</div>
+        <div class="icon"><img src="./assets/images/core-img/material-symbols_foundation.png" alt=""></div>
         <h4>2-step thought process</h4>
         <p>Identifying each student’s personality, behavior, and learning style to create a more personalized and effective learning journey. </p>
       </div>
 
       <div class="kg2-card">
-        <div class="icon">📊</div>
+        <div class="icon"><img src="./assets/images/core-img/ri_school-line.png" alt=""></div>
         <h4>Increased Confidence in Learning</h4>
         <p>Empowering students to explore, question, and learn without fear, creating a positive and self-driven mindset.</p>
       </div>

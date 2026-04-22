@@ -19,26 +19,41 @@
   <!-- Top Announcement Bar -->
   <div class="announcement">
     <marquee>
-      ⭐ ADMISSIONS ARE OPEN FOR THE ACADEMIC YEAR 2026 - 2027 ⭐
-      ADMISSIONS ARE OPEN FOR THE ACADEMIC YEAR 2026 - 2027 ⭐
-      ADMISSIONS ARE OPEN FOR THE ACADEMIC YEAR 2026 - 2027 ⭐
-      ADMISSIONS ARE OPEN FOR THE ACADEMIC YEAR 2026 - 2027 ⭐
-      ADMISSIONS ARE OPEN FOR THE ACADEMIC YEAR 2026 - 2027 ⭐
-    </marquee>
+      <a href="admission.php#enquiry" class="marquee-link">
+       ADMISSIONS IN FULL SWING ⭐ PRE-KG to IX and XI ~AY 2026-27 ⭐CONTACT NOW: 8015973533, 8807373533⭐
+       ADMISSIONS IN FULL SWING ⭐ PRE-KG to IX and XI ~AY 2026-27 ⭐CONTACT NOW: 8015973533, 8807373533⭐
+       ADMISSIONS IN FULL SWING ⭐ PRE-KG to IX and XI ~AY 2026-27 ⭐CONTACT NOW: 8015973533, 8807373533⭐
+       ADMISSIONS IN FULL SWING ⭐ PRE-KG to IX and XI ~AY 2026-27 ⭐CONTACT NOW: 8015973533, 8807373533⭐
+       ADMISSIONS IN FULL SWING ⭐ PRE-KG to IX and XI ~AY 2026-27 ⭐CONTACT NOW: 8015973533, 8807373533⭐
+       ADMISSIONS IN FULL SWING ⭐ PRE-KG to IX and XI ~AY 2026-27 ⭐CONTACT NOW: 8015973533, 8807373533⭐
+       ADMISSIONS IN FULL SWING ⭐ PRE-KG to IX and XI ~AY 2026-27 ⭐CONTACT NOW: 8015973533, 8807373533⭐
+       </a>
+      </marquee>
 
   </div>
 
   <!-- Content -->
   <div class="hero-content">
-    <h1>
-      Built for Better Learning and Your Child’s Future
-    </h1>
+  <h1>
+    <span>
+      Built for Better Learning and<br>
+      Your Child’s Future
+    </span>
+  </h1>
 
-    <p>
-Our unique learning model supports students at every stage of their journey. Starting with empathy, building strong foundations, encouraging independent thinking, and preparing them for future success.</p>
-
-    <a href="#" class="hero-btn">Enquire Now</a>
+  <p>
+    <span>
+      Our unique learning model supports students at every stage of their journey. 
+      Starting with empathy, building strong foundations, encouraging independent thinking, 
+      and preparing them for future success.
+    </span>
+  </p>
+  <a href="#" class="hero-btn">Enquire Now</a>
   </div>
+
+</div>
+
+  
 
   <!-- Floating Icons -->
   <!-- <div class="floating-icons">

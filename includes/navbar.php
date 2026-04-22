@@ -30,34 +30,37 @@ $currentPage = basename($_SERVER['PHP_SELF']);
   <div class="nav-container">
 
     <!-- Logo -->
-    <div class="logo">
-      <img src="assets/images/logo.png" alt="ViSa School Logo">
-    </div>
+  <div class="logo">
+  <a href="index.php">
+    <img src="assets/images/logo.png" alt="ViSa School Logo">
+  </a>
+</div>
+
 
     <ul class="nav-menu">
 
       <li>
-        <a href="index.php" class="<?= ($currentPage == 'index.php') ? 'active' : '' ?>"><b>Home</b></a>
+        <a href="index.php" class="<?= ($currentPage == 'index.php') ? 'active' : '' ?>">Home</a>
       </li>
 
       <li>
-        <a href="about.php" class="<?= ($currentPage == 'about.php') ? 'active' : '' ?>"><b>About Us</b></a>
+        <a href="about.php" class="<?= ($currentPage == 'about.php') ? 'active' : '' ?>">About Us</a>
       </li>
 
       <li>
-        <a href="life-at-visa.php" class="<?= ($currentPage == 'life-at-visa.php') ? 'active' : '' ?>"><b>Life At ViSa</b></a>
+        <a href="life-at-visa.php" class="<?= ($currentPage == 'life-at-visa.php') ? 'active' : '' ?>">Life At ViSa</a>
       </li>
 
       <li>
-        <a href="core-value.php" class="<?= ($currentPage == 'core-value.php') ? 'active' : '' ?>"><b>Core Values</b></a>
+        <a href="core-value.php" class="<?= ($currentPage == 'core-value.php') ? 'active' : '' ?>">Core Values</a>
       </li>
 
       <li>
-        <a href="admission.php" class="<?= ($currentPage == 'admission.php') ? 'active' : '' ?>"><b>Admissions</b></a>
+        <a href="admission.php" class="<?= ($currentPage == 'admission.php') ? 'active' : '' ?>">Admissions</a>
       </li>
 
       <li>
-        <a href="gallery.php" class="<?= ($currentPage == 'gallery.php') ? 'active' : '' ?>"><b>Gallery</b></a>
+        <a href="gallery.php" class="<?= ($currentPage == 'gallery.php') ? 'active' : '' ?>">Gallery</a>
       </li>
 
     </ul>
@@ -65,7 +68,7 @@ $currentPage = basename($_SERVER['PHP_SELF']);
     <!-- CTA Button -->
     <div class="nav-cta">
       <!-- <a href="#" class="btn-enquire">Enquire Now</a> -->
-       <a href="admission.php" class="btn-enquire">Enquire Now</a>
+       <a href="admission.php#enquiry" class="btn-enquire">Enquire Now</a>
 
     </div>
 

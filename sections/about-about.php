@@ -5,7 +5,7 @@
     <div class="journey-left">
       <p class="journey-mini"><b>LEGACY OF TRUST & EXCELLENCE</b></p>
 
-      <h2 class="journey-title">Our Journey</h2>
+      <h2 class="journey-title">VISION STATEMENT</h2>
 
       <p class="journey-text">
        ViSa School is a CBSE-aligned, co-educational institution focused on
@@ -13,7 +13,7 @@
       </p>
 
       <div class="journey-card">
-        <h3>VISION STATEMENT</h3>
+        <!-- <h3>VISION STATEMENT</h3> -->
         <p>
           To be a centre of excellence in education, nurturing globally
           competent, ethically strong, and technologically empowered learners

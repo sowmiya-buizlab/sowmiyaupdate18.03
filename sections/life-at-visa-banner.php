@@ -30,15 +30,17 @@
 
   <!-- Content -->
   <div class="hero-content">
-    <h1>
-      Education Beyond Classroom
+    <h1><span>Education Beyond Classroom</span>
+      
     </h1>
 
-    <p>
-      At ViSa School, we focus on New Era development through academics, skills, sports, and creative learning shaping confident, and future-ready individuals.
+    <p><span>
+At ViSa School, we focus on New Era development through academics, skills, sports, and creative learning shaping confident, and future-ready individuals.
+    </span>
     </p>
 
-    <a href="admission.php" class="hero-btn">Enquire Now</a>
+    <a href="#" class="hero-btn">Enquire Now</a>
+
   </div>
 
   <!-- Floating Icons -->

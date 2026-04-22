@@ -9,10 +9,10 @@
       <div class="g35-content">
         <p class="g35-tag">DEFINE ME</p>
 
-        <h2>Grades 3 – 5 <span>(Preparatory Stage)</span></h2>
+        <h2>Grades 3 – 5</h2>
 
         <p class="g35-desc">
-          At this stage, we help students <b>define their understanding of core concepts</b> through structured and focused learning.
+          At this stage, we help students define their understanding of core concepts through structured and focused learning.
         </p>
 
         <p class="g35-desc">
@@ -72,13 +72,13 @@
     <div class="g35-out-grid">
 
       <div class="g35-card">
-        <div class="icon">📘</div>
+       <div class="icon"><img src="./assets/images/core-img/SVG_margin.png" alt=""></div>
         <h4>Clear Conceptual Understanding</h4>
         <p>Helps students understand concepts deeply rather than memorizing, enabling better application. </p>
       </div>
 
       <div class="g35-card">
-        <div class="icon">🌍</div>
+        <div class="icon"><img src="./assets/images/core-img/streamline-plump_global-learning.png" alt=""></div>
         <h4>Disciplined Learning Approach</h4>
         <p>Establishing clear goals, routines, and expectations to build consistency, focus, and responsibility in every student.</p>
       </div>

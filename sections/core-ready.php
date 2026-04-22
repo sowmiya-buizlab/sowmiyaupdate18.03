@@ -9,10 +9,10 @@
       <div class="g912-content">
         <p class="g912-tag">READY ME</p>
 
-        <h2>Grades 9 – 12 <span>(Senior Secondary Stage)</span></h2>
+        <h2>Grades 9 – 12</h2>
 
         <p class="g912-desc">
-          At this stage, students become <b>ready with clarity, confidence, and direction</b> for their future.
+          At this stage, students become ready with clarity, confidence, and direction for their future.
         </p>
 
         <p class="g912-desc">
@@ -72,13 +72,13 @@
     <div class="g912-out-grid">
 
       <div class="g912-card">
-        <div class="icon">🎯</div>
+    <div class="icon"><img src="./assets/images/core-img/mage_goals.png" alt=""></div>
         <h4>Clear Goals Build Academic Success</h4>
         <p>Students discover their path and confidently pick careers, while boosting academic success with focused learning and exam prep.</p>
       </div>
 
       <div class="g912-card">
-        <div class="icon">📊</div>
+      <div class="icon"><img src="./assets/images/core-img/academicons_ideas-repec.png" alt=""></div>
         <h4>Confidence for Challenges & Future Success</h4>
         <p>Builds resilience, self-belief, and the skills needed to excel in academics, higher education, and life.</p>
       </div>

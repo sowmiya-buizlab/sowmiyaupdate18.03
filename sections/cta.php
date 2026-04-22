@@ -7,7 +7,7 @@
       Take the first step towards a strong academic and future-ready journey
     </p>
 
-    <a href="admission.php" class="cta-btn">Enquire Now</a>
+    <a href="admission.php#enquiry" class="cta-btn">Enquire Now</a>
 
   </div>
 </section>

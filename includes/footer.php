@@ -40,9 +40,7 @@
      <p>📞 <a href="tel:+91 8807373533">+91 8807373533</a></p>
 
   <p>✉️ <a href="mailto:nmsvisaschool@gmail.com">nmsvisaschool@gmail.com</a></p>
-
-     
-      <p>
+   <p>
   📍 <a href="https://maps.google.com/?q=Nagamalai, Madurai" target="_blank">
     Nms Vijayalakshmi Sanjeevimalayan Kalviyagam Nagamalai, Madurai, Tamilnadu, India
   </a>

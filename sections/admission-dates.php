@@ -3,7 +3,7 @@
   <div class="dates-wrap">
 
     <!-- HEADER -->
-    <p class="dates-tag"><b>NOTEWORTHY MOMENTS</b></p>
+    <p class="dates-tag">NOTEWORTHY MOMENTS</p>
     <h2>Dates to Remember</h2>
 
     <p class="dates-desc">
@@ -16,8 +16,8 @@
       <div class="date-card">
         <div class="line"></div>
         <div class="content">
-          <div class="icon">📅</div>
-          <h3>March 2026</h3>
+          <div class="icon"><img src="./assets/images/adm-img/Component 2.png" alt=""></div>
+          <h3>1st March 2026</h3>
           <p>Admission Open</p>
         </div>
       </div>
@@ -25,27 +25,19 @@
       <div class="date-card">
         <div class="line"></div>
         <div class="content">
-          <div class="icon">📅</div>
-          <h3>March – May 2026</h3>
+          <div class="icon"><img src="./assets/images/adm-img/Component 2.png" alt=""></div>
+          <h3>1st March – 31st May 2026</h3>
           <p>Campus Visit</p>
-          <span>Working Hours: 8AM – 5PM</span>
+          <span>Working Hours: 8AM – 5PM <br>Days: Monday – Saturday
+          </span>
         </div>
       </div>
 
       <div class="date-card">
         <div class="line"></div>
         <div class="content">
-          <div class="icon">📅</div>
+          <div class="icon"><img src="./assets/images/adm-img/Component 2.png" alt=""></div>
           <h3>31st May 2026</h3>
-          <p>Last Date to Apply</p>
-        </div>
-      </div>
-
-      <div class="date-card">
-        <div class="line"></div>
-        <div class="content">
-          <div class="icon">📅</div>
-          <h3>May 2026</h3>
           <p>Admission Confirmation Deadline</p>
         </div>
       </div>
@@ -53,9 +45,9 @@
       <div class="date-card">
         <div class="line"></div>
         <div class="content">
-          <div class="icon">📅</div>
-          <h3>April 26 – March 27</h3>
-          <p>Admission Year Begins</p>
+          <div class="icon"><img src="./assets/images/adm-img/Component 2.png" alt=""></div>
+          <h3>1st April – 31st March</h3>
+          <p>Academic Year Begins</p>
         </div>
       </div>
 

@@ -60,43 +60,10 @@ At ViSa, we believe in nurturing students with a balanced approach—where acade
 
   <!-- SECTION 2 -->
   <div class="lf-block alt">
-    <div class="lf-flex reverse">
+    <div class="lf-flex ">
 
-      <div class="lf-content">
-        <h3>Academic Dean Message
-
-        <p>Education is not just about mastering a language, but about building confidence, communication, and the ability to express oneself effectively. At ViSaSchool, we focus on empowering students with essential soft skills alongside academic excellence, preparing them for real-world success.
-
-        <p>Through structured learning, interactive sessions, and personalized guidance, we create an environment where students can enhance their communication skills, develop critical thinking, and grow with confidence.</p>
-
-       
-
-       <a href="#" class="lf-btn" onclick="openProfile('correspondent')">
-  View Correspondent’s Profile
-</a>
-      </div>
-
-      <div class="lf-img">
-        <img src="assets/images/BRINDHA.jpg" alt="">
-        <h4>Ms. BRINDHA RAJARAM</h4>
-        <span>Academic Dean</span>
-      </div>
-
-    </div>
-  </div>
-
-  <!-- SECTION 3 -->
-  <div class="lf-block">
-    <div class="lf-flex">
-
-      <div class="lf-img">
-         <img src="assets/images/SHIVARANJANI.jpg" alt="">
-        <h4>Ms. R. SHIVA RANJANI</h4>
-        <span>Principal</span>
-      </div>
-
-      <div class="lf-content">
-        <h3>Principal’s Message</h3>
+      <div class="lf-content reverse">
+     <h3>Principal’s Message</h3>
 
         <p>Education is not just about learning facts, but about igniting curiosity, passion, and purpose in every child.</p>
 
@@ -109,10 +76,45 @@ At ViSa, we believe in nurturing students with a balanced approach—where acade
 </a>
       </div>
 
+      <div class="lf-img reverse">
+         <img src="assets/images/SHIVARANJANI.jpg" alt="">
+        <h4>Ms. R. SHIVA RANJANI</h4>
+        <span>Principal</span>
+             </div>
+
+    </div>
+  </div>
+
+  <!-- SECTION 3 -->
+  <div class="lf-block">
+    <div class="lf-flex">
+
+      <div class="lf-img">
+             <img src="assets/images/BRINDHA.jpg" alt="">
+        <h4>Ms. BRINDHA RAJARAM</h4>
+        <span>Academic Dean</span>
+ 
+      </div>
+
+      <div class="lf-content">
+      <h3>Academic Dean Message</h3>
+
+        <p>Education is not just about mastering a language, but about building confidence, communication, and the ability to express oneself effectively. At ViSaSchool, we focus on empowering students with essential soft skills alongside academic excellence, preparing them for real-world success.
+
+        <p>Through structured learning, interactive sessions, and personalized guidance, we create an environment where students can enhance their communication skills, develop critical thinking, and grow with confidence.</p>
+
+       
+
+       <a href="#" class="lf-btn" onclick="openProfile('correspondent')">
+  View Correspondent’s Profile
+</a>
+      </div>
+
     </div>
   </div>
 
 </section>
+
 
 <!-- POPUP MODAL -->
 <div class="pf-modal" id="profileModal">
@@ -128,8 +130,8 @@ At ViSa, we believe in nurturing students with a balanced approach—where acade
         <h2 id="pf-name">Mr. S. RETHINAVELU</h2>
 
         <p id="pf-desc">
-          A visionary leader and “Infra Man” of Madurai...
-        </p>
+          sowmiya
+          </p>
 
         <p class="pf-degree" id="pf-degree">B.Com., B.L.</p>
 
@@ -157,7 +159,7 @@ At ViSa, we believe in nurturing students with a balanced approach—where acade
 
       <!-- RIGHT -->
       <div class="pf-right">
-        <img id="pf-img" src="" alt="profile">
+        <img id="pf-img" src="assets/images/Grades 9 – 12.jpg" alt="profile">
 
         <div class="pf-card">
           <h4>ACADEMIC & GOVERNMENT ROLES</h4>

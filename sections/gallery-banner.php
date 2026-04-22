@@ -1,4 +1,7 @@
 <section class="hero">
+<video autoplay muted loop playsinline>
+      <source src="assets/video/Gallery.mp4" type="video/mp4">
+    </video>
 
   <!-- Background (Image / Video) -->
   <div class="hero-bg">
@@ -14,16 +17,19 @@
   </div>
 
   <!-- Dark Overlay -->
-  <div class="overlay"></div>
+  <!-- <div class="overlay"></div> -->
 
   <!-- Top Announcement Bar -->
   <div class="announcement">
     <marquee>
-      ⭐ ADMISSIONS ARE OPEN FOR THE ACADEMIC YEAR 2026 - 2027 IS FULL SWING⭐
-      ADMISSIONS ARE OPEN FOR THE ACADEMIC YEAR 2026 - 2027 IS FULL SWING ⭐
-      ADMISSIONS ARE OPEN FOR THE ACADEMIC YEAR 2026 - 2027 IS FULL SWING ⭐
-      ADMISSIONS ARE OPEN FOR THE ACADEMIC YEAR 2026 - 2027 IS FULL SWING ⭐
-      ADMISSIONS ARE OPEN FOR THE ACADEMIC YEAR 2026 - 2027 IS FULL SWING ⭐
+          <a href="admission.php#enquiry" class="marquee-link">
+      ADMISSIONS IN FULL SWING ⭐ PRE-KG to IX and XI ~AY 2026-27 ⭐ CONTACT NOW: 8015973533, 8807373533 ⭐
+      ADMISSIONS IN FULL SWING ⭐ PRE-KG to IX and XI ~AY 2026-27 ⭐ CONTACT NOW: 8015973533, 8807373533 ⭐
+      ADMISSIONS IN FULL SWING ⭐ PRE-KG to IX and XI ~AY 2026-27 ⭐ CONTACT NOW: 8015973533, 8807373533 ⭐
+      ADMISSIONS IN FULL SWING ⭐ PRE-KG to IX and XI ~AY 2026-27 ⭐ CONTACT NOW: 8015973533, 8807373533 ⭐
+
+</a>
+</a>⭐
     </marquee>
 
   </div>
@@ -38,7 +44,7 @@
       A transformative learning environment where curiosity meets creativity, and education goes beyond textbooks.
     </p>
 
-    <a href="admission.php" class="hero-btn">Enquire Now</a>
+    <a href="admission.php#enquiry" class="hero-btn">Enquire Now</a>
   </div>
 
   <!-- Floating Icons -->

@@ -3,7 +3,7 @@
   <div class="process-wrap">
 
     <!-- HEADER -->
-    <p class="process-tag"><b>PATHWAY TO JOIN US</b></p>
+    <p class="process-tag">PATHWAY TO JOIN US</p>
     <h2>Admission Process</h2>
     <p class="process-desc">
       Our step-by-step admission process makes joining us simple and convenient.

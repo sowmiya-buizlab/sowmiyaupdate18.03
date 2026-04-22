@@ -1,4 +1,5 @@
-<section class="enq-sec">
+<section class="enq-sec" id="enquiry">
+
 
   <div class="enq-wrap">
 

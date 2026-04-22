@@ -11,20 +11,34 @@
   <!-- Announcement -->
   <div class="announcement">
     <marquee>
+       <a href="admission.php#enquiry" class="marquee-link">
       ⭐ ADMISSIONS ARE OPEN FOR THE ACADEMIC YEAR 2026 - 2027 IS FULL SWING⭐
       ADMISSIONS ARE OPEN FOR THE ACADEMIC YEAR 2026 - 2027 IS FULL SWING ⭐
       ADMISSIONS ARE OPEN FOR THE ACADEMIC YEAR 2026 - 2027 IS FULL SWING ⭐
       ADMISSIONS ARE OPEN FOR THE ACADEMIC YEAR 2026 - 2027 IS FULL SWING ⭐
       ADMISSIONS ARE OPEN FOR THE ACADEMIC YEAR 2026 - 2027 IS FULL SWING ⭐
+    </a>
     </marquee>
   </div>
 
   <!-- Content -->
-  <div class="hero-content">
-    <h1>A Trusted Beginning for Your Child’s Future</h1>
-    <p>Take the first step towards a New Era and future-ready education.</p>
-    <a href="#" class="hero-btn">Enquire Now</a>
+   <div class="hero-content">
+  <h1>
+    <span>
+      A Trusted Beginning for<br>Your Child’s Future
+    </span>
+  </h1>
+
+  <p>
+    <span>
+      Take the first step towards a New Era and future-ready education.
+    </span>
+  </p>
+  <a href="#" class="hero-btn">Enquire Now</a>
   </div>
+
+
+
 
 </section>
 

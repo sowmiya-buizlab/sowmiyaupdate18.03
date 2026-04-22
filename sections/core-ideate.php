@@ -14,10 +14,10 @@
       <div class="g68-content">
         <p class="g68-tag">IDEATE ME</p>
 
-        <h2>Grades 6 – 8 <span>(Middle Stage)</span></h2>
+        <h2>Grades 6 – 8</h2>
 
         <p class="g68-desc">
-          At this stage, students are encouraged to <b>ideate, explore ideas, and think independently.</b>
+          At this stage, students are encouraged to ideate, explore ideas, and think independently.
         </p>
 
         <p class="g68-desc">
@@ -72,14 +72,14 @@
     <div class="g68-out-grid">
 
       <div class="g68-card">
-        <div class="icon">🧠</div>
+        <div class="icon"><img src="./assets/images/core-img/iconoir_learning.png" alt=""></div>
         <h4>Strong Critical Thinking Skills</h4>
         <p>Enables students to analyze situations, evaluate ideas, and think logically to solve problems.
 </p>
       </div>
 
       <div class="g68-card">
-        <div class="icon">💡</div>
+        <div class="icon"><img src="./assets/images/core-img/academicons_ideas-repec.png" alt=""></div>
         <h4>Creativity & Confidence in Ideas</h4>
         <p>Encouraging students to think creatively, explore new ideas, and express their thoughts clearly with confidence.</p>
       </div>

@@ -3,7 +3,7 @@
   <div class="adm-light-wrap">
 
     <!-- HEADER -->
-    <p class="adm-tag"><b>ENROLL WITH EASE</b></p>
+    <p class="adm-tag">ENROLL WITH EASE</p>
     <h2>Admission Information</h2>
 
     <p class="adm-desc">

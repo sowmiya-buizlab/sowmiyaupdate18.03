@@ -47,6 +47,32 @@
           </div>
         </div>
 
+              <!-- Slide 3 (duplicate for smooth loop) -->
+
+
+        <div class="slide">
+  <div class="card">
+    <p>
+      VISA SCHOOL HAS HELPED MY CHILD GROW CONFIDENTLY BOTH IN STUDIES AND PERSONALITY. THE TEACHERS ARE VERY SUPPORTIVE AND CARING.
+    </p>
+    <div class="stars">★★★★★</div>
+    <span>MEENA R</span>
+  </div>
+
+  <div class="card">
+    <p>
+      EXCELLENT SCHOOL WITH A STRONG FOCUS ON VALUES AND SKILL DEVELOPMENT. I CAN SEE GREAT IMPROVEMENT IN MY CHILD'S LEARNING AND BEHAVIOR.
+    </p>
+    <div class="stars">★★★★★</div>
+    <span>KARTHIK S</span>
+  </div>
+</div>
+      </div>
+
+
+
+
+
       </div>
 
       <!-- Buttons -->

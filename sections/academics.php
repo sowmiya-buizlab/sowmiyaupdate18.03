@@ -9,7 +9,7 @@
     </p>
 
     <!-- ROW 1 -->
-    <div class="acad-row">
+    <div class="acad-row ">
       <div class="acad-img">
         <img src="assets/images/Kg.jpg" alt="">
       </div>
@@ -17,7 +17,7 @@
       <div class="acad-text ">
         <p class="small-tag"> <b>EMPATHIZE ME</b></p>
 
-        <h3>KG – Grade 2 <span>(Foundational Stage)</span></h3>
+        <h3>Kindergarden – Grade 2 <span>(Foundational Stage)</span></h3>
 
         <p>
           At this stage, we empathize with every child’s emotions, pace, and individuality to create a safe and supportive learning environment.
@@ -37,12 +37,12 @@
     </div>
 
     <!-- ROW 2 -->
-    <div class="acad-row">
+    <div class="acad-row reverse ">
       <div class="acad-img">
         <img src="assets/images/Grades 3 – 5.jpg" alt="">
       </div>
 
-      <div class="acad-text">
+      <div class="acad-text reverse">
         <p class="small-tag"> <b>DEFINE ME</b></p>
 
         <h3>Grades 3 – 5 <span>(Preparatory Stage)</span></h3>
@@ -68,12 +68,12 @@
     </div>
 
     <!-- ROW 3 -->
-    <div class="acad-row">
+    <div class="acad-row ">
       <div class="acad-img">
         <img src="assets/images/Grades 6 – 8.jpg" alt="">
       </div>
 
-      <div class="acad-text">
+      <div class="acad-text ">
         <p class="small-tag"><b>IDEATE ME</b></p>
 
         <h3>Grades 6 – 8 <span>(Middle Stage)</span></h3>
@@ -99,12 +99,12 @@
     </div>
 
     <!-- ROW 4 -->
-    <div class="acad-row ">
+    <div class="acad-row reverse  ">
       <div class="acad-img">
         <img src="assets/images/Grades 9 – 12.jpg" alt="">
       </div>
 
-      <div class="acad-text">
+      <div class="acad-text reverse">
         <p class="small-tag"><b>READY ME</b></p>
 
         <h3>Grades 9 – 12 <span>(Secondary & Senior Secondary Stage)</span></h3>

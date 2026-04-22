@@ -2,28 +2,26 @@
 
   <!-- VIDEO BACKGROUND -->
   <div class="hero-bg">
-
-    <video id="heroVideo" autoplay muted loop playsinline poster="assets/images/Homebanner.jpg">
+<video autoplay muted loop playsinline>
       <source src="assets/video/about-us.mp4" type="video/mp4">
-      Your browser does not support video.
     </video>
 
-    <!-- SOUND BUTTON -->
-    <button id="soundBtn" class="sound-btn">🔇</button>
-
-  </div>
+    </div>
 
   <!-- OVERLAY -->
-  <div class="overlay"></div>
+  <!-- <div class="overlay"></div> -->
 
   <!-- ANNOUNCEMENT -->
   <div class="announcement">
     <marquee>
-      ⭐ ADMISSIONS ARE OPEN FOR THE ACADEMIC YEAR 2026 - 2027 IS FULL SWING⭐
-      ADMISSIONS ARE OPEN FOR THE ACADEMIC YEAR 2026 - 2027 IS FULL SWING ⭐
-      ADMISSIONS ARE OPEN FOR THE ACADEMIC YEAR 2026 - 2027 IS FULL SWING ⭐
-      ADMISSIONS ARE OPEN FOR THE ACADEMIC YEAR 2026 - 2027 IS FULL SWING ⭐
-      ADMISSIONS ARE OPEN FOR THE ACADEMIC YEAR 2026 - 2027 IS FULL SWING ⭐
+          <a href="admission.php#enquiry" class="marquee-link">
+      ADMISSIONS IN FULL SWING ⭐ PRE-KG to IX and XI ~AY 2026-27 ⭐ CONTACT NOW: 8015973533, 8807373533 ⭐
+      ADMISSIONS IN FULL SWING ⭐ PRE-KG to IX and XI ~AY 2026-27 ⭐ CONTACT NOW: 8015973533, 8807373533 ⭐
+      ADMISSIONS IN FULL SWING ⭐ PRE-KG to IX and XI ~AY 2026-27 ⭐ CONTACT NOW: 8015973533, 8807373533 ⭐
+      ADMISSIONS IN FULL SWING ⭐ PRE-KG to IX and XI ~AY 2026-27 ⭐ CONTACT NOW: 8015973533, 8807373533 ⭐
+
+</a>
+
     </marquee>
   </div>
 
@@ -36,7 +34,7 @@
       and education goes beyond textbooks.
     </p>
 
-    <a href="admission.php" class="hero-btn">Enquire Now</a>
+    <a href="admission.php#enquiry" class="hero-btn">Enquire Now</a>
   </div>
 
 </section>

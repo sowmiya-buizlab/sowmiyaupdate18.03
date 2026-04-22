@@ -3,7 +3,7 @@
   <div class="value-wrap">
 
     <!-- HEADER -->
-    <p class="value-tag"><b>NURTURING ETHICAL MINDS</b></p>
+    <p class="value-tag">NURTURING ETHICAL MINDS</p>
     <h2>Value Based Education</h2>
 
     <p class="value-desc">
@@ -19,7 +19,7 @@
       </div>
 
       <div class="value-content">
-        <p class="sub-tag"><b>EXPERIENTIAL LEARNING</b></p>
+        <p class="sub-tag">EXPERIENTIAL LEARNING</p>
         <h3>Skill-Based Curriculum</h3>
         <p>Learning at VISa extends beyond textbooks through Experiential Learning that encourage students to discover their talents and build confidence.</p>
 
@@ -39,7 +39,7 @@
       </div>
 
       <div class="value-content">
-        <p class="sub-tag"><b>INNOVATIVE LEARNING</b></p>
+        <p class="sub-tag">INNOVATIVE LEARNING</p>
         <h3>STEAM Lab</h3>
         <p>We provide an integrated learning environment where students explore science, technology, engineering, arts, and mathematics through hands-on experiences.</p>
 
@@ -59,7 +59,7 @@
       </div>
 
       <div class="value-content">
-        <p class="sub-tag"><b>FUTURE TECHNOLOGY</b></p>
+        <p class="sub-tag">FUTURE TECHNOLOGY</p>
         <h3>Robotics Training</h3>
         <p>We introduce students to robotics, coding, and intelligent systems, helping them build future-ready skills.</p>
 
@@ -79,7 +79,7 @@
       </div>
 
       <div class="value-content">
-        <p class="sub-tag"><b>ENVIRONMENTAL LEARNING</b></p>
+        <p class="sub-tag">ENVIRONMENTAL LEARNING</p>
         <h3>Nature Study & Agricultural Awareness</h3>
         <p>We connect students with nature and agriculture through experiential learning.</p>
 
